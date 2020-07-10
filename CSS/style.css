@@ -66,12 +66,12 @@ body
 	display: text;
 	padding: 5px 15px;
 	padding-top: 10px;
-	padding-bottom: 5px; 
+	padding-bottom: 10px; 
 	padding-left: 30px;
 	padding-right:10px;
 	width:190px;
-	top: 10%;
-	left:105%;
+	top: 6%;
+	left:108%;
 	margin:auto;
 	color: #2196f3;
 	text-transform: uppercase;
